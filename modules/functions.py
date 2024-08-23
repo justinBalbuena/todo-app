@@ -1,5 +1,6 @@
 FILEPATH = "../todos.txt"
 
+
 def get_todos(filepath=FILEPATH):
     # this is function documentation
     """
